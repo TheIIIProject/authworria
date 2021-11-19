@@ -7,14 +7,18 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
-    siteTitle: `Minimal Blog`,
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
-    siteHeadline: `Minimal Blog - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://minimal-blog.lekoarts.de`,
-    siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
+    siteTitle: `Ray's Blog | A look into Ray's Mind`,
+    siteTitleAlt: `Rae's Blog | A look into Rae's Mind`,
+    siteHeadline: `Ray's Blog`,
+    siteUrl: `https://authworria.com`,
+    siteDescription: `What's up, my name is Ray and I'm a 15 yro Programmer and Web Dev. Programming is a great way to build things that can make people's lives easier. My blogs will show you some of the cool projects I've been working on and learn tips and tricks for programming amd/or web developing.
+
+    I hope you enjoy! :)
+    
+    - Ray // Rae`,
     siteLanguage: `en`,
-    siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    siteImage: `/site_img_png`,
+    author: `@vibeyray`,
   },
   plugins: [
     {
@@ -34,7 +38,7 @@ module.exports = {
         externalLinks: [
           {
             name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            url: `https://twitter.com/vibeyray`,
           },
           {
             name: `Homepage`,
