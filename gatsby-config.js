@@ -13,7 +13,7 @@ module.exports = {
     siteUrl: `https://authworria.com`,
     siteDescription: `What's up, my name is Ray and I'm a 15 yro Programmer and Web Dev. Programming is a great way to build things that can make people's lives easier. My blogs will show you some of the cool projects I've been working on and learn tips and tricks for programming amd/or web developing.`,
     siteLanguage: `en`,
-    siteImage: `/bannerimg.jpg`,
+    siteImage: `https://media.discordapp.net/attachments/816683558651166781/911393400236945480/bannerimg.jpg`,
     author: `@vibeyray`,
   },
   plugins: [
