@@ -11,13 +11,9 @@ module.exports = {
     siteTitleAlt: `Ray's Blog | A look into Ray's Mind`,
     siteHeadline: `Ray`,
     siteUrl: `https://authworria.com`,
-    siteDescription: `What's up, my name is Ray and I'm a 15 yro Programmer and Web Dev. Programming is a great way to build things that can make people's lives easier. My blogs will show you some of the cool projects I've been working on and learn tips and tricks for programming amd/or web developing.
-
-    I hope you enjoy! :)
-    
-    - Ray // Rae`,
+    siteDescription: `What's up, my name is Ray and I'm a 15 yro Programmer and Web Dev. Programming is a great way to build things that can make people's lives easier. My blogs will show you some of the cool projects I've been working on and learn tips and tricks for programming amd/or web developing.`,
     siteLanguage: `en`,
-    siteImage: `/banner.jpg`,
+    siteImage: `/banner.png`,
     author: `@vibeyray`,
   },
   plugins: [
