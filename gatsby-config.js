@@ -17,7 +17,7 @@ module.exports = {
     
     - Ray // Rae`,
     siteLanguage: `en`,
-    siteImage: `/site_img.png`,
+    siteImage: `/banner.png`,
     author: `@vibeyray`,
   },
   plugins: [
