@@ -9,7 +9,7 @@ module.exports = {
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
     siteTitle: `Ray's Blog`,
     siteTitleAlt: `Ray's Blog | A look into Ray's Mind`,
-    siteHeadline: `Ray's Blog`,
+    siteHeadline: `Ray`,
     siteUrl: `https://authworria.com`,
     siteDescription: `What's up, my name is Ray and I'm a 15 yro Programmer and Web Dev. Programming is a great way to build things that can make people's lives easier. My blogs will show you some of the cool projects I've been working on and learn tips and tricks for programming amd/or web developing.
 
@@ -42,7 +42,7 @@ module.exports = {
           },
           {
             name: `Homepage`,
-            url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
+            url: `#`,
           },
         ],
       },
